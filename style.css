@@ -1,0 +1,13 @@
+p {
+    color: red;
+    font-size: 120%;
+}
+#lista_link {
+    color: blue;
+    font-size: 150%;
+    background-color: darkgoldenrod;
+}
+.input {
+    color: yellow;
+    background-color: indigo;
+}
